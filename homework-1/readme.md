@@ -4,11 +4,11 @@
 
 2. Applications can be used to show information but also manipulate data. Web applications tend to also be more complex than websites, mostly due to the use of data-manipulation.
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+### VS Code & Extensions
 
 1. Many extentions in Visual Studio Code are used to make the process easier. Rather than typing out things over and over again, you can use an extention or shortcut to make it easier. Though, there are also silly ones, such as the VSCode pet.
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+### Version Control, Git, & GitHub
 
 1. Version control is a concept used to allow modifcation to be seperated from the client server to the public server. It allows you to make changes without the fear of breaking your project. Along with that, version control allows people to work on code together in an efficent way.
 
